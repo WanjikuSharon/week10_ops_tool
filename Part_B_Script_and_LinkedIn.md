@@ -1,4 +1,4 @@
-# Week10_Product_Demo_Valentine.mp4 — Video Script
+# Week10_Product_Demo_Wanjiku.mp4 — Video Script
 
 
 ### HOOK (0:00–0:25)
