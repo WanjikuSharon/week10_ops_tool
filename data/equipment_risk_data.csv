@@ -1,0 +1,251 @@
+equipment_id,equipment_type,hospital_name,county,install_date,last_maintenance_date,days_since_maintenance,utilization_pct_of_rated_life,usage_unit,sensor_temp_c,sensor_vibration_mm_s,risk_score,risk_level,predicted_days_to_failure,maintenance_notes
+EQ-0001,Ventilator,Mbagathi Hospital,Nairobi,2020-09-30,2025-09-19,347,51.8,operating hours,44.4,2.39,61.8,High,140,"Routine preventive maintenance completed, no faults found."
+EQ-0002,Dialysis Machine,Coast General Teaching & Referral Hospital,Mombasa,2020-08-10,2025-12-16,259,13.7,treatment cycles,33.9,1.35,40.9,Medium,232,"Minor repair completed, unit returned to service."
+EQ-0003,Ultrasound Machine,Nakuru Level 5 Hospital,Nakuru,2024-08-10,2025-08-08,389,36.1,operating hours,45.9,3.3,52.2,High,152,Replacement filter/consumable overdue by more than 30 days.
+EQ-0004,Patient Monitor,Kiambu Level 5 Hospital,Kiambu,2019-01-15,2026-02-18,195,8.7,operating hours,44.4,4.16,38.9,Medium,226,"Routine preventive maintenance completed, no faults found."
+EQ-0005,Autoclave/Sterilizer,Meru Level 5 Hospital,Meru,2022-03-31,2025-10-14,322,63.3,sterilization cycles,39.6,0.31,61.2,High,141,Technician flagged unusual vibration during last inspection.
+EQ-0006,Dialysis Machine,Nakuru Level 5 Hospital,Nakuru,2018-11-23,2026-05-04,120,11.3,treatment cycles,40.6,1.41,28.2,Medium,244,No maintenance record on file for over 6 months.
+EQ-0007,Anesthesia Machine,Kiambu Level 5 Hospital,Kiambu,2020-05-08,2025-09-16,350,26.3,operating hours,32.5,1.27,50.2,High,141,Calibration passed within tolerance.
+EQ-0008,Anesthesia Machine,Kakamega County General Hospital,Kakamega,2021-01-10,2025-10-08,328,17.5,operating hours,36.9,1.52,46.3,Medium,169,"Routine preventive maintenance completed, no faults found."
+EQ-0009,Patient Monitor,Mbagathi Hospital,Nairobi,2022-07-02,2025-11-14,291,43.1,operating hours,40.7,3.43,56.9,High,164,"Spare parts requested from supplier, pending delivery."
+EQ-0010,Autoclave/Sterilizer,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2019-07-26,2026-04-27,127,29.8,sterilization cycles,37.8,0.63,34.3,Medium,262,"Spare parts requested from supplier, pending delivery."
+EQ-0011,Oxygen Concentrator,Machakos Level 5 Hospital,Machakos,2020-06-17,2025-12-22,253,58.6,operating hours,38.0,2.89,60.9,High,106,Replacement filter/consumable overdue by more than 30 days.
+EQ-0012,Ultrasound Machine,Bungoma County Referral Hospital,Bungoma,2022-04-26,2026-02-17,196,49.2,operating hours,34.3,1.54,47.0,Medium,159,"Minor repair completed, unit returned to service."
+EQ-0013,Dialysis Machine,Coast General Teaching & Referral Hospital,Mombasa,2021-10-25,2026-01-11,233,65.4,treatment cycles,40.8,4.9,63.2,High,144,"Minor repair completed, unit returned to service."
+EQ-0014,Anesthesia Machine,Meru Level 5 Hospital,Meru,2021-05-07,2025-10-08,328,45.8,operating hours,35.3,2.45,58.7,High,134,Replacement filter/consumable overdue by more than 30 days.
+EQ-0015,Defibrillator,Meru Level 5 Hospital,Meru,2024-09-19,2026-02-27,186,42.8,discharge cycles,38.7,4.55,45.4,Medium,170,"Routine preventive maintenance completed, no faults found."
+EQ-0016,Patient Monitor,Bungoma County Referral Hospital,Bungoma,2018-12-17,2025-08-22,375,12.4,operating hours,36.5,2.55,48.4,Medium,207,Replacement filter/consumable overdue by more than 30 days.
+EQ-0017,Anesthesia Machine,Kakamega County General Hospital,Kakamega,2020-12-21,2026-05-15,109,11.4,operating hours,37.1,4.77,30.0,Medium,271,Recurring error code logged by onboard diagnostics.
+EQ-0018,Ultrasound Machine,Kiambu Level 5 Hospital,Kiambu,2023-10-21,2026-01-12,232,26.9,operating hours,40.1,3.24,42.6,Medium,182,Biomedical engineer recommends replacement within 90 days.
+EQ-0019,Defibrillator,Nakuru Level 5 Hospital,Nakuru,2018-01-30,2026-05-06,118,76.8,discharge cycles,40.4,2.85,57.1,High,135,"Minor repair completed, unit returned to service."
+EQ-0020,Patient Monitor,Moi Teaching & Referral Hospital,Uasin Gishu,2020-05-27,2025-11-28,277,47.6,operating hours,44.3,5.09,62.5,High,136,Unit temporarily decommissioned pending inspection.
+EQ-0021,Patient Monitor,Kakamega County General Hospital,Kakamega,2020-02-19,2026-03-03,182,75.4,operating hours,41.3,1.01,57.9,High,166,Technician flagged unusual vibration during last inspection.
+EQ-0022,Dialysis Machine,Machakos Level 5 Hospital,Machakos,2019-03-24,2026-04-26,128,57.9,treatment cycles,39.8,4.24,51.8,High,134,Replacement filter/consumable overdue by more than 30 days.
+EQ-0023,Infusion Pump,Kakamega County General Hospital,Kakamega,2018-11-05,2025-11-23,282,0.0,operating hours,40.8,4.28,44.6,Medium,198,"Routine preventive maintenance completed, no faults found."
+EQ-0024,Ventilator,Nakuru Level 5 Hospital,Nakuru,2022-07-23,2025-12-26,249,66.0,operating hours,30.1,2.85,60.9,High,168,Replacement filter/consumable overdue by more than 30 days.
+EQ-0025,Ultrasound Machine,Mbagathi Hospital,Nairobi,2020-12-22,2026-04-07,147,84.2,operating hours,34.9,0,55.3,High,200,"Minor repair completed, unit returned to service."
+EQ-0026,Autoclave/Sterilizer,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2021-04-30,2026-05-12,112,74.2,sterilization cycles,43.2,2.11,50.8,High,176,No maintenance record on file for over 6 months.
+EQ-0027,Dialysis Machine,Mbagathi Hospital,Nairobi,2023-08-22,2026-08-02,30,71.9,treatment cycles,35.6,3.09,40.4,Medium,171,Biomedical engineer recommends replacement within 90 days.
+EQ-0028,Ventilator,Nakuru Level 5 Hospital,Nakuru,2019-05-07,2025-11-13,292,42.5,operating hours,38.1,4.51,62.3,High,140,"Spare parts requested from supplier, pending delivery."
+EQ-0029,Oxygen Concentrator,Bungoma County Referral Hospital,Bungoma,2020-12-04,2026-05-01,123,56.2,operating hours,44.1,2.42,45.6,Medium,206,Unit temporarily decommissioned pending inspection.
+EQ-0030,X-Ray Machine,Coast General Teaching & Referral Hospital,Mombasa,2023-02-21,2025-10-17,319,58.2,exposures,51.3,2.45,61.5,High,101,Calibration passed within tolerance.
+EQ-0031,Defibrillator,Moi Teaching & Referral Hospital,Uasin Gishu,2021-11-30,2026-02-23,190,82.7,discharge cycles,32.4,2.15,61.3,High,138,Recurring error code logged by onboard diagnostics.
+EQ-0032,Oxygen Concentrator,Meru Level 5 Hospital,Meru,2024-03-21,2026-03-31,154,71.2,operating hours,39.7,2.21,50.4,High,211,Recurring error code logged by onboard diagnostics.
+EQ-0033,Ventilator,Coast General Teaching & Referral Hospital,Mombasa,2021-01-20,2026-03-09,176,41.6,operating hours,40.7,3.11,46.0,Medium,163,Unit temporarily decommissioned pending inspection.
+EQ-0034,Infusion Pump,Kenyatta National Hospital,Nairobi,2022-10-01,2026-04-12,142,79.0,operating hours,41.5,2.87,55.2,High,123,Recurring error code logged by onboard diagnostics.
+EQ-0035,Anesthesia Machine,Kakamega County General Hospital,Kakamega,2024-04-16,2025-09-12,354,54.9,operating hours,38.1,4.05,61.3,High,161,Biomedical engineer recommends replacement within 90 days.
+EQ-0036,Defibrillator,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2019-06-07,2026-08-10,22,27.2,discharge cycles,34.9,5.5,30.7,Medium,283,"Routine preventive maintenance completed, no faults found."
+EQ-0037,X-Ray Machine,Nakuru Level 5 Hospital,Nakuru,2019-02-26,2026-02-04,209,25.6,exposures,42.1,4.96,48.2,Medium,225,Calibration passed within tolerance.
+EQ-0038,Anesthesia Machine,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2018-04-12,2026-06-01,92,38.2,operating hours,37.7,1.16,36.3,Medium,277,Calibration passed within tolerance.
+EQ-0039,Infusion Pump,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2022-04-16,2026-05-10,114,79.3,operating hours,32.3,3.55,54.1,High,146,Calibration passed within tolerance.
+EQ-0040,Patient Monitor,Kenyatta National Hospital,Nairobi,2022-06-21,2026-03-16,169,98.2,operating hours,37.7,3.06,66.2,High,136,No maintenance record on file for over 6 months.
+EQ-0041,Defibrillator,Machakos Level 5 Hospital,Machakos,2018-04-24,2026-06-01,92,94.7,discharge cycles,45.0,0,57.1,High,110,Biomedical engineer recommends replacement within 90 days.
+EQ-0042,Ultrasound Machine,Kiambu Level 5 Hospital,Kiambu,2022-11-23,2025-10-25,311,10.2,operating hours,40.0,2.43,42.6,Medium,246,Calibration passed within tolerance.
+EQ-0043,Infusion Pump,Mbagathi Hospital,Nairobi,2018-01-07,2025-09-14,352,0.0,operating hours,37.1,2.03,43.2,Medium,218,No maintenance record on file for over 6 months.
+EQ-0044,Ultrasound Machine,Coast General Teaching & Referral Hospital,Mombasa,2021-07-09,2025-09-26,340,4.6,operating hours,41.7,0.55,39.0,Medium,189,Recurring error code logged by onboard diagnostics.
+EQ-0045,Ultrasound Machine,Kiambu Level 5 Hospital,Kiambu,2021-04-26,2025-09-25,341,29.6,operating hours,37.1,4.6,55.7,High,190,Biomedical engineer recommends replacement within 90 days.
+EQ-0046,Oxygen Concentrator,Moi Teaching & Referral Hospital,Uasin Gishu,2024-02-23,2026-08-31,1,31.2,operating hours,37.1,3.47,21.2,Low,320,Biomedical engineer recommends replacement within 90 days.
+EQ-0047,X-Ray Machine,Kakamega County General Hospital,Kakamega,2022-12-17,2025-08-20,377,31.5,exposures,33.7,2.81,51.6,High,170,Biomedical engineer recommends replacement within 90 days.
+EQ-0048,X-Ray Machine,Coast General Teaching & Referral Hospital,Mombasa,2021-06-25,2026-05-08,116,54.2,exposures,38.8,1.71,42.3,Medium,149,Unit temporarily decommissioned pending inspection.
+EQ-0049,Oxygen Concentrator,Coast General Teaching & Referral Hospital,Mombasa,2022-08-25,2025-08-29,368,69.7,operating hours,34.6,1.92,65.8,High,102,"Routine preventive maintenance completed, no faults found."
+EQ-0050,Ventilator,Machakos Level 5 Hospital,Machakos,2019-12-22,2025-09-09,357,17.4,operating hours,36.7,2.45,49.0,Medium,152,Technician flagged unusual vibration during last inspection.
+EQ-0051,Autoclave/Sterilizer,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2023-12-16,2025-08-10,387,78.5,sterilization cycles,37.6,4.1,71.3,High,113,"Minor repair completed, unit returned to service."
+EQ-0052,Ultrasound Machine,Meru Level 5 Hospital,Meru,2019-10-14,2025-08-16,381,23.3,operating hours,40.8,1.25,49.7,Medium,201,Recurring error code logged by onboard diagnostics.
+EQ-0053,Defibrillator,Kakamega County General Hospital,Kakamega,2021-01-29,2026-05-03,121,8.2,discharge cycles,40.3,2.32,25.9,Medium,265,Replacement filter/consumable overdue by more than 30 days.
+EQ-0054,Anesthesia Machine,Nakuru Level 5 Hospital,Nakuru,2019-09-18,2025-09-04,362,66.7,operating hours,38.9,4.01,71.6,High,89,Unit temporarily decommissioned pending inspection.
+EQ-0055,Ultrasound Machine,Kenyatta National Hospital,Nairobi,2022-09-17,2025-09-09,357,12.1,operating hours,42.4,5.57,48.6,Medium,187,Unit temporarily decommissioned pending inspection.
+EQ-0056,Dialysis Machine,Kiambu Level 5 Hospital,Kiambu,2022-05-17,2026-01-29,215,51.3,treatment cycles,31.7,1.92,50.3,High,203,Calibration passed within tolerance.
+EQ-0057,Autoclave/Sterilizer,Nakuru Level 5 Hospital,Nakuru,2022-11-21,2025-09-23,343,20.3,sterilization cycles,38.4,1.84,45.7,Medium,153,Unit temporarily decommissioned pending inspection.
+EQ-0058,Anesthesia Machine,Bungoma County Referral Hospital,Bungoma,2022-06-02,2025-11-01,304,22.0,operating hours,37.1,2.36,47.7,Medium,197,Replacement filter/consumable overdue by more than 30 days.
+EQ-0059,Autoclave/Sterilizer,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2020-12-01,2026-03-17,168,32.5,sterilization cycles,39.9,0.89,38.2,Medium,188,"Spare parts requested from supplier, pending delivery."
+EQ-0060,Infusion Pump,Coast General Teaching & Referral Hospital,Mombasa,2018-03-21,2025-08-13,384,88.9,operating hours,21.3,0.91,77.0,Critical,73,Technician flagged unusual vibration during last inspection.
+EQ-0061,Dialysis Machine,Kenyatta National Hospital,Nairobi,2020-03-27,2026-05-01,123,63.5,treatment cycles,33.3,4.07,52.0,High,174,Calibration passed within tolerance.
+EQ-0062,Autoclave/Sterilizer,Moi Teaching & Referral Hospital,Uasin Gishu,2019-11-19,2025-10-25,311,71.5,sterilization cycles,32.8,0.95,68.4,High,86,Replacement filter/consumable overdue by more than 30 days.
+EQ-0063,Infusion Pump,Coast General Teaching & Referral Hospital,Mombasa,2021-07-01,2026-02-20,193,0.0,operating hours,34.0,0.61,26.6,Medium,194,Calibration passed within tolerance.
+EQ-0064,Ventilator,Moi Teaching & Referral Hospital,Uasin Gishu,2024-05-07,2026-08-10,22,68.9,operating hours,35.6,3.8,38.7,Medium,198,"Minor repair completed, unit returned to service."
+EQ-0065,X-Ray Machine,Mbagathi Hospital,Nairobi,2023-07-01,2025-10-10,326,95.1,exposures,44.3,3.79,78.0,Critical,61,Replacement filter/consumable overdue by more than 30 days.
+EQ-0066,Defibrillator,Moi Teaching & Referral Hospital,Uasin Gishu,2023-03-20,2026-01-20,224,27.5,discharge cycles,40.5,0.71,38.7,Medium,192,Calibration passed within tolerance.
+EQ-0067,Ventilator,Moi Teaching & Referral Hospital,Uasin Gishu,2020-09-25,2025-09-23,343,45.1,operating hours,32.8,2.24,58.8,High,173,Replacement filter/consumable overdue by more than 30 days.
+EQ-0068,Autoclave/Sterilizer,Nakuru Level 5 Hospital,Nakuru,2020-11-24,2026-03-10,175,49.1,sterilization cycles,37.0,4.48,51.3,High,207,"Minor repair completed, unit returned to service."
+EQ-0069,Dialysis Machine,Meru Level 5 Hospital,Meru,2018-12-17,2025-11-20,285,46.4,treatment cycles,42.1,2.62,60.6,High,149,Unit temporarily decommissioned pending inspection.
+EQ-0070,Autoclave/Sterilizer,Kenyatta National Hospital,Nairobi,2021-04-20,2026-05-10,114,6.8,sterilization cycles,35.5,3.13,25.7,Medium,284,No maintenance record on file for over 6 months.
+EQ-0071,Autoclave/Sterilizer,Meru Level 5 Hospital,Meru,2022-10-09,2026-03-04,181,76.6,sterilization cycles,37.9,2.15,56.9,High,129,Technician flagged unusual vibration during last inspection.
+EQ-0072,Patient Monitor,Kiambu Level 5 Hospital,Kiambu,2024-01-04,2025-08-06,391,26.0,operating hours,37.0,1.59,46.2,Medium,213,Recurring error code logged by onboard diagnostics.
+EQ-0073,Oxygen Concentrator,Meru Level 5 Hospital,Meru,2019-02-16,2026-02-28,185,55.4,operating hours,35.1,2.61,54.0,High,164,Recurring error code logged by onboard diagnostics.
+EQ-0074,Dialysis Machine,Mbagathi Hospital,Nairobi,2019-06-02,2025-10-09,327,48.8,treatment cycles,41.1,1.22,60.3,High,168,Biomedical engineer recommends replacement within 90 days.
+EQ-0075,Infusion Pump,Kakamega County General Hospital,Kakamega,2022-12-10,2026-04-24,130,10.0,operating hours,46.7,4.09,28.1,Medium,297,"Spare parts requested from supplier, pending delivery."
+EQ-0076,Autoclave/Sterilizer,Coast General Teaching & Referral Hospital,Mombasa,2019-09-14,2026-06-16,77,34.7,sterilization cycles,41.7,0,30.1,Medium,186,Calibration passed within tolerance.
+EQ-0077,Ventilator,Meru Level 5 Hospital,Meru,2024-10-19,2025-07-30,398,16.4,operating hours,34.8,0.87,40.2,Medium,202,Biomedical engineer recommends replacement within 90 days.
+EQ-0078,Ultrasound Machine,Moi Teaching & Referral Hospital,Uasin Gishu,2024-11-02,2025-08-18,379,41.1,operating hours,43.5,3.99,55.1,High,168,Recurring error code logged by onboard diagnostics.
+EQ-0079,Ventilator,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2019-12-13,2026-02-03,210,31.2,operating hours,37.3,0.58,42.6,Medium,176,Calibration passed within tolerance.
+EQ-0080,Infusion Pump,Moi Teaching & Referral Hospital,Uasin Gishu,2018-10-19,2025-09-14,352,55.3,operating hours,38.3,3.67,67.6,High,132,Biomedical engineer recommends replacement within 90 days.
+EQ-0081,Patient Monitor,Machakos Level 5 Hospital,Machakos,2024-02-09,2026-04-17,137,47.2,operating hours,40.2,2.77,40.1,Medium,169,Recurring error code logged by onboard diagnostics.
+EQ-0082,Oxygen Concentrator,Bungoma County Referral Hospital,Bungoma,2022-12-04,2026-06-29,64,36.5,operating hours,34.7,2.75,30.0,Medium,231,Recurring error code logged by onboard diagnostics.
+EQ-0083,Defibrillator,Meru Level 5 Hospital,Meru,2022-11-29,2026-01-22,222,51.2,discharge cycles,38.6,2.3,50.9,High,125,Calibration passed within tolerance.
+EQ-0084,Oxygen Concentrator,Bungoma County Referral Hospital,Bungoma,2021-01-08,2025-11-09,296,11.1,operating hours,44.5,3.13,45.9,Medium,186,Unit temporarily decommissioned pending inspection.
+EQ-0085,Infusion Pump,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2023-07-08,2026-02-03,210,72.6,operating hours,37.1,1.38,56.1,High,185,No maintenance record on file for over 6 months.
+EQ-0086,Ultrasound Machine,Kakamega County General Hospital,Kakamega,2022-06-29,2025-08-07,390,77.2,operating hours,33.8,1.99,69.1,High,96,No maintenance record on file for over 6 months.
+EQ-0087,Ventilator,Machakos Level 5 Hospital,Machakos,2024-02-01,2025-12-09,266,36.9,operating hours,38.3,0.87,45.9,Medium,202,"Routine preventive maintenance completed, no faults found."
+EQ-0088,Patient Monitor,Moi Teaching & Referral Hospital,Uasin Gishu,2021-03-25,2026-01-19,225,77.1,operating hours,41.4,1.32,62.1,High,96,Biomedical engineer recommends replacement within 90 days.
+EQ-0089,Patient Monitor,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2024-03-06,2026-05-08,116,70.5,operating hours,38.4,5.81,52.1,High,163,Technician flagged unusual vibration during last inspection.
+EQ-0090,Anesthesia Machine,Kakamega County General Hospital,Kakamega,2023-09-16,2025-09-04,362,42.3,operating hours,36.9,5.32,59.0,High,182,Calibration passed within tolerance.
+EQ-0091,Autoclave/Sterilizer,Meru Level 5 Hospital,Meru,2022-04-21,2025-08-14,383,57.3,sterilization cycles,43.0,4.68,65.7,High,104,"Spare parts requested from supplier, pending delivery."
+EQ-0092,X-Ray Machine,Meru Level 5 Hospital,Meru,2018-01-11,2026-04-09,145,10.7,exposures,36.9,0,28.8,Medium,260,Unit temporarily decommissioned pending inspection.
+EQ-0093,Anesthesia Machine,Kakamega County General Hospital,Kakamega,2021-11-14,2026-02-19,194,24.0,operating hours,43.9,1.23,36.8,Medium,181,Calibration passed within tolerance.
+EQ-0094,Oxygen Concentrator,Machakos Level 5 Hospital,Machakos,2022-08-10,2026-08-09,23,51.1,operating hours,36.1,4.04,34.1,Medium,285,"Spare parts requested from supplier, pending delivery."
+EQ-0095,Ultrasound Machine,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2018-06-01,2026-03-15,170,90.5,operating hours,45.4,4.59,70.5,High,99,"Minor repair completed, unit returned to service."
+EQ-0096,Autoclave/Sterilizer,Kenyatta National Hospital,Nairobi,2022-08-07,2025-09-30,336,7.8,sterilization cycles,39.5,2.39,41.9,Medium,236,Recurring error code logged by onboard diagnostics.
+EQ-0097,X-Ray Machine,Bungoma County Referral Hospital,Bungoma,2018-11-25,2025-12-01,274,74.2,exposures,31.7,1.55,69.0,High,122,Unit temporarily decommissioned pending inspection.
+EQ-0098,Defibrillator,Kenyatta National Hospital,Nairobi,2020-08-19,2025-10-12,324,59.9,discharge cycles,36.7,1.37,63.5,High,107,Technician flagged unusual vibration during last inspection.
+EQ-0099,Ultrasound Machine,Coast General Teaching & Referral Hospital,Mombasa,2022-12-23,2026-08-17,15,55.6,operating hours,40.9,5.06,36.3,Medium,196,No maintenance record on file for over 6 months.
+EQ-0100,Ultrasound Machine,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2023-12-16,2026-02-02,211,57.7,operating hours,31.5,1.43,49.8,Medium,142,Technician flagged unusual vibration during last inspection.
+EQ-0101,Oxygen Concentrator,Machakos Level 5 Hospital,Machakos,2023-08-01,2026-01-07,237,56.9,operating hours,36.8,1.42,52.5,High,182,Unit temporarily decommissioned pending inspection.
+EQ-0102,Infusion Pump,Meru Level 5 Hospital,Meru,2018-10-30,2026-01-17,227,23.9,operating hours,49.2,1.0,43.4,Medium,175,"Spare parts requested from supplier, pending delivery."
+EQ-0103,Infusion Pump,Kakamega County General Hospital,Kakamega,2020-03-26,2026-07-08,55,94.0,operating hours,38.0,2.66,55.2,High,163,Recurring error code logged by onboard diagnostics.
+EQ-0104,Dialysis Machine,Machakos Level 5 Hospital,Machakos,2018-02-03,2025-11-15,290,77.5,treatment cycles,42.6,0.55,70.9,High,129,Biomedical engineer recommends replacement within 90 days.
+EQ-0105,Autoclave/Sterilizer,Moi Teaching & Referral Hospital,Uasin Gishu,2024-10-22,2026-05-26,98,50.6,sterilization cycles,35.3,0.86,33.7,Medium,261,Replacement filter/consumable overdue by more than 30 days.
+EQ-0106,Ventilator,Mbagathi Hospital,Nairobi,2022-12-11,2026-08-14,18,19.1,operating hours,32.3,1.33,16.1,Low,224,Recurring error code logged by onboard diagnostics.
+EQ-0107,X-Ray Machine,Machakos Level 5 Hospital,Machakos,2020-04-02,2026-02-25,188,66.0,exposures,41.7,0,53.0,High,195,Recurring error code logged by onboard diagnostics.
+EQ-0108,Autoclave/Sterilizer,Moi Teaching & Referral Hospital,Uasin Gishu,2019-04-17,2026-01-04,240,34.3,sterilization cycles,40.1,2.31,50.4,High,219,"Spare parts requested from supplier, pending delivery."
+EQ-0109,Defibrillator,Kiambu Level 5 Hospital,Kiambu,2022-06-05,2026-01-11,233,75.9,discharge cycles,38.4,0.81,60.1,High,120,"Spare parts requested from supplier, pending delivery."
+EQ-0110,X-Ray Machine,Coast General Teaching & Referral Hospital,Mombasa,2023-04-16,2026-08-19,13,75.5,exposures,31.0,0.05,35.7,Medium,202,Biomedical engineer recommends replacement within 90 days.
+EQ-0111,Patient Monitor,Coast General Teaching & Referral Hospital,Mombasa,2021-05-22,2026-08-08,24,37.6,operating hours,36.4,3.71,29.8,Medium,244,Technician flagged unusual vibration during last inspection.
+EQ-0112,Patient Monitor,Meru Level 5 Hospital,Meru,2022-05-11,2026-01-11,233,37.9,operating hours,31.3,5.15,51.9,High,187,"Minor repair completed, unit returned to service."
+EQ-0113,Ultrasound Machine,Bungoma County Referral Hospital,Bungoma,2022-08-27,2025-10-20,316,18.4,operating hours,31.7,0,42.2,Medium,148,No maintenance record on file for over 6 months.
+EQ-0114,Patient Monitor,Kakamega County General Hospital,Kakamega,2020-08-25,2026-02-27,186,78.6,operating hours,42.9,3.83,63.5,High,130,No maintenance record on file for over 6 months.
+EQ-0115,Dialysis Machine,Machakos Level 5 Hospital,Machakos,2020-02-17,2026-01-11,233,100,treatment cycles,36.1,3.37,76.7,Critical,88,"Routine preventive maintenance completed, no faults found."
+EQ-0116,Dialysis Machine,Kiambu Level 5 Hospital,Kiambu,2019-05-31,2025-11-15,290,54.4,treatment cycles,40.1,5.21,67.9,High,115,Biomedical engineer recommends replacement within 90 days.
+EQ-0117,Patient Monitor,Nakuru Level 5 Hospital,Nakuru,2019-08-28,2026-04-12,142,53.1,operating hours,32.8,3.03,48.8,Medium,141,Recurring error code logged by onboard diagnostics.
+EQ-0118,Anesthesia Machine,Coast General Teaching & Referral Hospital,Mombasa,2019-06-24,2026-08-24,8,34.1,operating hours,33.6,4.56,30.5,Medium,255,"Routine preventive maintenance completed, no faults found."
+EQ-0119,Anesthesia Machine,Moi Teaching & Referral Hospital,Uasin Gishu,2019-06-04,2025-08-15,382,43.4,operating hours,33.1,4.01,62.6,High,120,Biomedical engineer recommends replacement within 90 days.
+EQ-0120,Ventilator,Kakamega County General Hospital,Kakamega,2018-06-27,2025-08-24,373,55.6,operating hours,39.7,0,62.2,High,133,Unit temporarily decommissioned pending inspection.
+EQ-0121,Dialysis Machine,Mbagathi Hospital,Nairobi,2022-07-04,2025-09-01,365,34.3,treatment cycles,38.9,2.99,53.6,High,123,Biomedical engineer recommends replacement within 90 days.
+EQ-0122,Anesthesia Machine,Coast General Teaching & Referral Hospital,Mombasa,2021-01-31,2025-10-16,320,39.8,operating hours,34.6,1.1,54.5,High,143,Biomedical engineer recommends replacement within 90 days.
+EQ-0123,Defibrillator,Moi Teaching & Referral Hospital,Uasin Gishu,2023-09-02,2025-09-06,360,36.0,discharge cycles,36.9,4.15,54.7,High,192,"Minor repair completed, unit returned to service."
+EQ-0124,Patient Monitor,Machakos Level 5 Hospital,Machakos,2020-07-24,2026-02-01,212,69.0,operating hours,35.7,3.9,62.5,High,124,Technician flagged unusual vibration during last inspection.
+EQ-0125,X-Ray Machine,Machakos Level 5 Hospital,Machakos,2020-11-10,2026-01-01,243,34.9,exposures,39.6,5.08,53.5,High,124,Technician flagged unusual vibration during last inspection.
+EQ-0126,X-Ray Machine,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2024-07-30,2025-11-17,288,64.3,exposures,32.5,1.66,59.7,High,133,"Spare parts requested from supplier, pending delivery."
+EQ-0127,Dialysis Machine,Moi Teaching & Referral Hospital,Uasin Gishu,2021-12-11,2026-06-13,80,68.7,treatment cycles,40.9,1.91,44.3,Medium,151,"Minor repair completed, unit returned to service."
+EQ-0128,X-Ray Machine,Coast General Teaching & Referral Hospital,Mombasa,2024-06-09,2026-05-08,116,30.1,exposures,40.7,0,26.4,Medium,327,Biomedical engineer recommends replacement within 90 days.
+EQ-0129,Oxygen Concentrator,Meru Level 5 Hospital,Meru,2024-10-30,2026-04-17,137,87.4,operating hours,34.8,3.68,56.8,High,173,No maintenance record on file for over 6 months.
+EQ-0130,X-Ray Machine,Kenyatta National Hospital,Nairobi,2019-08-10,2025-11-15,290,48.6,exposures,37.2,2.02,60.3,High,158,"Routine preventive maintenance completed, no faults found."
+EQ-0131,Ventilator,Meru Level 5 Hospital,Meru,2022-03-21,2026-02-23,190,25.0,operating hours,39.8,2.0,37.6,Medium,273,Biomedical engineer recommends replacement within 90 days.
+EQ-0132,Ventilator,Kenyatta National Hospital,Nairobi,2019-10-07,2025-08-10,387,65.5,operating hours,33.6,0.99,66.2,High,102,"Spare parts requested from supplier, pending delivery."
+EQ-0133,Autoclave/Sterilizer,Bungoma County Referral Hospital,Bungoma,2022-08-24,2026-07-04,59,38.9,sterilization cycles,44.6,2.09,29.7,Medium,271,Biomedical engineer recommends replacement within 90 days.
+EQ-0134,Autoclave/Sterilizer,Meru Level 5 Hospital,Meru,2018-07-06,2026-05-11,113,55.0,sterilization cycles,33.7,3.74,49.2,Medium,127,Recurring error code logged by onboard diagnostics.
+EQ-0135,Patient Monitor,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2021-03-31,2025-08-14,383,43.5,operating hours,38.4,1.78,56.8,High,154,Calibration passed within tolerance.
+EQ-0136,Defibrillator,Meru Level 5 Hospital,Meru,2018-10-23,2026-02-09,204,50.5,discharge cycles,38.8,2.16,53.6,High,117,Technician flagged unusual vibration during last inspection.
+EQ-0137,X-Ray Machine,Bungoma County Referral Hospital,Bungoma,2024-06-06,2026-04-05,149,15.5,exposures,41.2,2.73,28.2,Medium,226,Biomedical engineer recommends replacement within 90 days.
+EQ-0138,Autoclave/Sterilizer,Kiambu Level 5 Hospital,Kiambu,2022-11-24,2026-07-08,55,48.4,sterilization cycles,38.2,4.5,36.7,Medium,224,"Spare parts requested from supplier, pending delivery."
+EQ-0139,Infusion Pump,Kiambu Level 5 Hospital,Kiambu,2021-09-26,2025-10-11,325,46.8,operating hours,36.4,3.85,60.9,High,168,No maintenance record on file for over 6 months.
+EQ-0140,X-Ray Machine,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2019-02-26,2026-06-18,75,64.6,exposures,37.9,3.43,48.0,Medium,145,Technician flagged unusual vibration during last inspection.
+EQ-0141,Anesthesia Machine,Kakamega County General Hospital,Kakamega,2024-04-28,2025-11-15,290,46.7,operating hours,33.6,0,50.5,High,155,No maintenance record on file for over 6 months.
+EQ-0142,Anesthesia Machine,Kakamega County General Hospital,Kakamega,2023-04-05,2026-01-17,227,0.0,operating hours,33.2,0.53,27.7,Medium,266,No maintenance record on file for over 6 months.
+EQ-0143,Defibrillator,Coast General Teaching & Referral Hospital,Mombasa,2023-03-07,2026-04-07,147,36.8,discharge cycles,38.4,5.16,41.9,Medium,244,Biomedical engineer recommends replacement within 90 days.
+EQ-0144,Oxygen Concentrator,Meru Level 5 Hospital,Meru,2023-03-11,2025-11-07,298,68.2,operating hours,31.3,1.61,63.9,High,154,Unit temporarily decommissioned pending inspection.
+EQ-0145,Oxygen Concentrator,Nakuru Level 5 Hospital,Nakuru,2024-10-14,2026-07-31,32,30.9,operating hours,38.3,0,17.8,Low,343,Technician flagged unusual vibration during last inspection.
+EQ-0146,Defibrillator,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2020-10-11,2025-09-03,363,59.0,discharge cycles,34.0,3.12,65.8,High,121,Replacement filter/consumable overdue by more than 30 days.
+EQ-0147,X-Ray Machine,Kiambu Level 5 Hospital,Kiambu,2022-05-06,2025-10-29,307,25.9,exposures,40.0,4.5,52.8,High,149,No maintenance record on file for over 6 months.
+EQ-0148,Ventilator,Meru Level 5 Hospital,Meru,2021-03-09,2026-04-24,130,56.4,operating hours,37.0,0.34,42.8,Medium,246,Replacement filter/consumable overdue by more than 30 days.
+EQ-0149,X-Ray Machine,Coast General Teaching & Referral Hospital,Mombasa,2021-12-03,2025-09-26,340,31.5,exposures,43.4,0.93,49.9,Medium,219,Recurring error code logged by onboard diagnostics.
+EQ-0150,Defibrillator,Machakos Level 5 Hospital,Machakos,2019-06-08,2025-09-22,344,66.1,discharge cycles,35.2,0,65.2,High,156,"Minor repair completed, unit returned to service."
+EQ-0151,Ventilator,Machakos Level 5 Hospital,Machakos,2018-03-16,2026-05-14,110,34.8,operating hours,39.9,1.11,36.7,Medium,182,Replacement filter/consumable overdue by more than 30 days.
+EQ-0152,Anesthesia Machine,Coast General Teaching & Referral Hospital,Mombasa,2019-02-19,2025-12-15,260,80.7,operating hours,39.0,0,67.5,High,138,"Routine preventive maintenance completed, no faults found."
+EQ-0153,X-Ray Machine,Bungoma County Referral Hospital,Bungoma,2024-09-12,2025-09-11,355,34.4,exposures,39.7,2.86,50.7,High,139,Unit temporarily decommissioned pending inspection.
+EQ-0154,Dialysis Machine,Machakos Level 5 Hospital,Machakos,2020-08-30,2026-01-16,228,0.0,treatment cycles,32.9,0.9,31.6,Medium,278,Calibration passed within tolerance.
+EQ-0155,Defibrillator,Nakuru Level 5 Hospital,Nakuru,2023-04-06,2025-09-18,348,58.5,discharge cycles,36.5,6.59,68.1,High,109,Recurring error code logged by onboard diagnostics.
+EQ-0156,Ultrasound Machine,Meru Level 5 Hospital,Meru,2019-10-26,2026-05-21,103,21.5,operating hours,38.7,1.72,30.0,Medium,210,Unit temporarily decommissioned pending inspection.
+EQ-0157,X-Ray Machine,Meru Level 5 Hospital,Meru,2023-10-15,2025-08-06,391,57.1,exposures,35.4,3.38,61.8,High,134,"Spare parts requested from supplier, pending delivery."
+EQ-0158,Ventilator,Nakuru Level 5 Hospital,Nakuru,2021-12-02,2026-08-18,14,68.1,operating hours,34.5,3.27,39.7,Medium,195,"Spare parts requested from supplier, pending delivery."
+EQ-0159,Ventilator,Kiambu Level 5 Hospital,Kiambu,2018-04-26,2025-08-31,366,40.2,operating hours,39.7,0.94,57.6,High,117,Recurring error code logged by onboard diagnostics.
+EQ-0160,Autoclave/Sterilizer,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2023-01-12,2025-10-20,316,9.2,sterilization cycles,39.6,2.52,42.1,Medium,174,Replacement filter/consumable overdue by more than 30 days.
+EQ-0161,Defibrillator,Bungoma County Referral Hospital,Bungoma,2019-04-01,2026-06-30,63,48.0,discharge cycles,35.1,4.0,40.9,Medium,241,Unit temporarily decommissioned pending inspection.
+EQ-0162,Ventilator,Coast General Teaching & Referral Hospital,Mombasa,2024-09-10,2025-11-30,275,52.7,operating hours,42.8,2.69,55.3,High,133,Replacement filter/consumable overdue by more than 30 days.
+EQ-0163,Infusion Pump,Machakos Level 5 Hospital,Machakos,2021-12-16,2025-09-25,341,46.5,operating hours,42.1,1.6,56.9,High,138,"Minor repair completed, unit returned to service."
+EQ-0164,Defibrillator,Meru Level 5 Hospital,Meru,2022-05-19,2026-01-03,241,18.5,discharge cycles,41.8,2.9,41.4,Medium,190,"Routine preventive maintenance completed, no faults found."
+EQ-0165,X-Ray Machine,Coast General Teaching & Referral Hospital,Mombasa,2020-09-14,2025-08-01,396,41.2,exposures,32.4,0.3,54.2,High,126,No maintenance record on file for over 6 months.
+EQ-0166,Defibrillator,Kiambu Level 5 Hospital,Kiambu,2023-03-19,2025-09-09,357,24.3,discharge cycles,35.5,2.63,48.1,Medium,143,Unit temporarily decommissioned pending inspection.
+EQ-0167,Dialysis Machine,Moi Teaching & Referral Hospital,Uasin Gishu,2018-06-29,2026-03-23,162,58.3,treatment cycles,29.9,4.15,56.1,High,196,"Minor repair completed, unit returned to service."
+EQ-0168,Autoclave/Sterilizer,Moi Teaching & Referral Hospital,Uasin Gishu,2020-02-22,2026-04-07,147,32.8,sterilization cycles,33.7,4.55,43.0,Medium,241,No maintenance record on file for over 6 months.
+EQ-0169,Infusion Pump,Coast General Teaching & Referral Hospital,Mombasa,2022-11-25,2026-02-15,198,76.7,operating hours,33.8,1.99,58.3,High,161,No maintenance record on file for over 6 months.
+EQ-0170,Defibrillator,Moi Teaching & Referral Hospital,Uasin Gishu,2022-10-05,2026-07-22,41,58.6,discharge cycles,26.2,4.57,39.6,Medium,172,Recurring error code logged by onboard diagnostics.
+EQ-0171,X-Ray Machine,Coast General Teaching & Referral Hospital,Mombasa,2021-09-05,2025-10-27,309,33.6,exposures,35.1,2.32,53.2,High,158,Unit temporarily decommissioned pending inspection.
+EQ-0172,Dialysis Machine,Kiambu Level 5 Hospital,Kiambu,2021-01-29,2025-10-08,328,30.2,treatment cycles,47.6,2.04,52.1,High,126,"Spare parts requested from supplier, pending delivery."
+EQ-0173,X-Ray Machine,Meru Level 5 Hospital,Meru,2018-05-08,2026-01-19,225,66.3,exposures,42.3,3.05,63.9,High,146,No maintenance record on file for over 6 months.
+EQ-0174,X-Ray Machine,Machakos Level 5 Hospital,Machakos,2024-10-14,2026-06-14,79,47.0,exposures,33.8,0,29.0,Medium,230,Technician flagged unusual vibration during last inspection.
+EQ-0175,Oxygen Concentrator,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2022-06-19,2026-07-04,59,37.0,operating hours,41.0,3.45,31.3,Medium,242,"Minor repair completed, unit returned to service."
+EQ-0176,Ventilator,Moi Teaching & Referral Hospital,Uasin Gishu,2023-01-02,2026-05-14,110,47.6,operating hours,41.3,2.47,38.5,Medium,266,Unit temporarily decommissioned pending inspection.
+EQ-0177,Patient Monitor,Coast General Teaching & Referral Hospital,Mombasa,2018-10-31,2026-01-16,228,0.0,operating hours,40.5,5.24,40.7,Medium,263,No maintenance record on file for over 6 months.
+EQ-0178,X-Ray Machine,Coast General Teaching & Referral Hospital,Mombasa,2021-05-13,2026-06-12,81,44.2,exposures,35.8,0,32.2,Medium,255,No maintenance record on file for over 6 months.
+EQ-0179,Defibrillator,Nakuru Level 5 Hospital,Nakuru,2020-04-03,2025-12-22,253,49.8,discharge cycles,35.2,4.38,60.0,High,129,"Minor repair completed, unit returned to service."
+EQ-0180,Anesthesia Machine,Bungoma County Referral Hospital,Bungoma,2018-09-27,2026-03-26,159,50.2,operating hours,32.9,3.92,51.9,High,166,"Spare parts requested from supplier, pending delivery."
+EQ-0181,Ultrasound Machine,Bungoma County Referral Hospital,Bungoma,2019-05-29,2026-01-13,231,80.3,operating hours,37.0,0.73,65.2,High,95,"Minor repair completed, unit returned to service."
+EQ-0182,Oxygen Concentrator,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2022-11-08,2025-12-17,258,51.4,operating hours,39.1,2.23,54.6,High,124,Replacement filter/consumable overdue by more than 30 days.
+EQ-0183,Infusion Pump,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2021-08-14,2025-12-09,266,61.4,operating hours,36.9,4.79,65.0,High,105,"Minor repair completed, unit returned to service."
+EQ-0184,Infusion Pump,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2023-12-26,2026-07-15,48,15.3,operating hours,35.6,2.49,18.2,Low,358,Replacement filter/consumable overdue by more than 30 days.
+EQ-0185,Anesthesia Machine,Bungoma County Referral Hospital,Bungoma,2024-04-27,2026-07-21,42,93.2,operating hours,40.0,4.56,51.6,High,176,Calibration passed within tolerance.
+EQ-0186,Oxygen Concentrator,Machakos Level 5 Hospital,Machakos,2023-08-02,2025-10-14,322,55.1,operating hours,32.5,1.89,58.8,High,127,Calibration passed within tolerance.
+EQ-0187,Ultrasound Machine,Moi Teaching & Referral Hospital,Uasin Gishu,2018-10-26,2026-01-31,213,39.5,operating hours,35.8,1.49,49.0,Medium,189,No maintenance record on file for over 6 months.
+EQ-0188,X-Ray Machine,Kiambu Level 5 Hospital,Kiambu,2019-06-20,2025-08-07,390,46.7,exposures,34.5,3.9,63.7,High,113,Unit temporarily decommissioned pending inspection.
+EQ-0189,Ventilator,Moi Teaching & Referral Hospital,Uasin Gishu,2020-10-12,2026-02-16,197,50.1,operating hours,39.0,3.53,52.6,High,209,Replacement filter/consumable overdue by more than 30 days.
+EQ-0190,X-Ray Machine,Bungoma County Referral Hospital,Bungoma,2020-02-17,2025-08-06,391,25.4,exposures,45.2,6.69,58.8,High,141,Recurring error code logged by onboard diagnostics.
+EQ-0191,Autoclave/Sterilizer,Kenyatta National Hospital,Nairobi,2022-05-30,2026-05-13,111,0.0,sterilization cycles,37.6,2.09,19.6,Low,246,Biomedical engineer recommends replacement within 90 days.
+EQ-0192,Autoclave/Sterilizer,Moi Teaching & Referral Hospital,Uasin Gishu,2019-03-17,2026-01-23,221,41.0,sterilization cycles,40.1,3.38,53.0,High,151,"Spare parts requested from supplier, pending delivery."
+EQ-0193,X-Ray Machine,Mbagathi Hospital,Nairobi,2018-07-29,2025-11-21,284,30.1,exposures,36.9,2.14,53.7,High,157,"Minor repair completed, unit returned to service."
+EQ-0194,Infusion Pump,Bungoma County Referral Hospital,Bungoma,2019-06-12,2026-07-13,50,69.0,operating hours,32.4,4.15,48.0,Medium,165,No maintenance record on file for over 6 months.
+EQ-0195,Anesthesia Machine,Nakuru Level 5 Hospital,Nakuru,2023-08-11,2025-08-31,366,51.8,operating hours,38.3,1.65,57.1,High,146,Biomedical engineer recommends replacement within 90 days.
+EQ-0196,Defibrillator,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2021-07-28,2026-06-09,84,69.5,discharge cycles,33.7,3.79,48.5,Medium,215,Biomedical engineer recommends replacement within 90 days.
+EQ-0197,X-Ray Machine,Meru Level 5 Hospital,Meru,2024-04-24,2026-02-24,189,30.8,exposures,45.0,2.15,37.5,Medium,208,Recurring error code logged by onboard diagnostics.
+EQ-0198,Dialysis Machine,Bungoma County Referral Hospital,Bungoma,2020-12-23,2025-09-30,336,55.5,treatment cycles,39.4,0,59.1,High,149,"Routine preventive maintenance completed, no faults found."
+EQ-0199,Oxygen Concentrator,Kakamega County General Hospital,Kakamega,2023-11-18,2026-02-18,195,21.0,operating hours,34.0,3.86,37.5,Medium,160,Technician flagged unusual vibration during last inspection.
+EQ-0200,Patient Monitor,Mbagathi Hospital,Nairobi,2021-07-08,2026-01-29,215,75.2,operating hours,41.6,4.37,64.8,High,116,Biomedical engineer recommends replacement within 90 days.
+EQ-0201,Autoclave/Sterilizer,Kenyatta National Hospital,Nairobi,2023-10-26,2025-09-26,340,50.9,sterilization cycles,41.4,1.05,55.5,High,196,Unit temporarily decommissioned pending inspection.
+EQ-0202,Defibrillator,Kiambu Level 5 Hospital,Kiambu,2020-12-18,2025-10-23,313,48.3,discharge cycles,28.0,2.87,60.9,High,119,Recurring error code logged by onboard diagnostics.
+EQ-0203,Patient Monitor,Moi Teaching & Referral Hospital,Uasin Gishu,2020-04-29,2025-12-29,246,34.4,operating hours,33.7,0.47,46.8,Medium,217,Recurring error code logged by onboard diagnostics.
+EQ-0204,Infusion Pump,Coast General Teaching & Referral Hospital,Mombasa,2022-06-05,2026-03-08,177,92.4,operating hours,44.9,1.74,62.6,High,115,Recurring error code logged by onboard diagnostics.
+EQ-0205,Ventilator,Kiambu Level 5 Hospital,Kiambu,2020-11-16,2025-11-29,276,44.7,operating hours,35.2,2.24,56.1,High,133,Technician flagged unusual vibration during last inspection.
+EQ-0206,Oxygen Concentrator,Bungoma County Referral Hospital,Bungoma,2020-09-20,2026-08-06,26,76.8,operating hours,35.6,0.88,42.0,Medium,219,"Routine preventive maintenance completed, no faults found."
+EQ-0207,Ventilator,Machakos Level 5 Hospital,Machakos,2023-04-19,2026-08-29,3,79.6,operating hours,42.1,6.54,46.7,Medium,150,Unit temporarily decommissioned pending inspection.
+EQ-0208,Autoclave/Sterilizer,Nakuru Level 5 Hospital,Nakuru,2021-08-08,2026-04-07,147,29.7,sterilization cycles,32.7,0,32.7,Medium,180,Biomedical engineer recommends replacement within 90 days.
+EQ-0209,Patient Monitor,Meru Level 5 Hospital,Meru,2019-12-19,2026-08-13,19,3.5,operating hours,41.8,4.01,17.9,Low,286,Recurring error code logged by onboard diagnostics.
+EQ-0210,Dialysis Machine,Mbagathi Hospital,Nairobi,2024-05-15,2025-10-27,309,44.5,treatment cycles,46.9,5.17,58.9,High,126,"Minor repair completed, unit returned to service."
+EQ-0211,Defibrillator,Kakamega County General Hospital,Kakamega,2023-08-28,2026-07-05,58,28.9,discharge cycles,38.5,1.32,23.1,Low,291,Replacement filter/consumable overdue by more than 30 days.
+EQ-0212,Dialysis Machine,Kiambu Level 5 Hospital,Kiambu,2024-05-14,2025-09-20,346,80.4,treatment cycles,38.1,1.57,67.5,High,136,"Spare parts requested from supplier, pending delivery."
+EQ-0213,Ultrasound Machine,Meru Level 5 Hospital,Meru,2018-12-22,2026-06-21,72,35.9,operating hours,39.0,0,30.9,Medium,173,"Spare parts requested from supplier, pending delivery."
+EQ-0214,Patient Monitor,Kakamega County General Hospital,Kakamega,2021-09-12,2026-03-30,155,53.3,operating hours,33.5,1.53,45.3,Medium,165,No maintenance record on file for over 6 months.
+EQ-0215,Patient Monitor,Kenyatta National Hospital,Nairobi,2023-03-22,2025-12-17,258,36.1,operating hours,41.8,5.28,52.9,High,190,Technician flagged unusual vibration during last inspection.
+EQ-0216,Infusion Pump,Kiambu Level 5 Hospital,Kiambu,2020-06-16,2026-06-24,69,20.7,operating hours,33.6,2.73,27.1,Medium,326,No maintenance record on file for over 6 months.
+EQ-0217,Ultrasound Machine,Meru Level 5 Hospital,Meru,2024-01-11,2025-08-06,391,60.0,operating hours,30.9,2.54,61.3,High,164,Technician flagged unusual vibration during last inspection.
+EQ-0218,Defibrillator,Kakamega County General Hospital,Kakamega,2018-11-16,2025-11-16,289,86.9,discharge cycles,43.7,4.33,80.1,Critical,85,Calibration passed within tolerance.
+EQ-0219,Oxygen Concentrator,Meru Level 5 Hospital,Meru,2019-11-05,2026-07-03,60,30.7,operating hours,42.3,1.49,29.0,Medium,246,"Minor repair completed, unit returned to service."
+EQ-0220,Autoclave/Sterilizer,Mbagathi Hospital,Nairobi,2019-06-25,2025-12-12,263,9.0,sterilization cycles,33.6,3.48,44.2,Medium,201,Recurring error code logged by onboard diagnostics.
+EQ-0221,Dialysis Machine,Machakos Level 5 Hospital,Machakos,2018-01-13,2026-08-08,24,44.1,treatment cycles,32.7,0.43,30.7,Medium,248,"Routine preventive maintenance completed, no faults found."
+EQ-0222,Ventilator,Kakamega County General Hospital,Kakamega,2021-03-21,2026-02-03,210,62.9,operating hours,38.9,3.23,58.0,High,158,"Spare parts requested from supplier, pending delivery."
+EQ-0223,X-Ray Machine,Machakos Level 5 Hospital,Machakos,2022-03-27,2025-09-27,339,18.1,exposures,42.3,3.07,47.5,Medium,221,Technician flagged unusual vibration during last inspection.
+EQ-0224,Anesthesia Machine,Meru Level 5 Hospital,Meru,2023-12-07,2026-06-27,66,35.5,operating hours,37.6,1.45,26.5,Medium,184,"Routine preventive maintenance completed, no faults found."
+EQ-0225,Infusion Pump,Kakamega County General Hospital,Kakamega,2023-12-19,2026-01-08,236,31.9,operating hours,40.0,1.82,42.6,Medium,251,Technician flagged unusual vibration during last inspection.
+EQ-0226,Dialysis Machine,Machakos Level 5 Hospital,Machakos,2020-09-12,2026-05-18,106,61.5,treatment cycles,42.9,3.33,47.8,Medium,177,"Routine preventive maintenance completed, no faults found."
+EQ-0227,Patient Monitor,Mbagathi Hospital,Nairobi,2022-12-03,2025-07-30,398,46.7,operating hours,40.8,4.17,59.9,High,123,Biomedical engineer recommends replacement within 90 days.
+EQ-0228,X-Ray Machine,Bungoma County Referral Hospital,Bungoma,2020-08-28,2026-03-30,155,55.3,exposures,46.3,0,44.9,Medium,195,"Spare parts requested from supplier, pending delivery."
+EQ-0229,Infusion Pump,Moi Teaching & Referral Hospital,Uasin Gishu,2024-03-30,2026-06-03,90,93.8,operating hours,35.4,1.39,51.7,High,168,No maintenance record on file for over 6 months.
+EQ-0230,Ultrasound Machine,Meru Level 5 Hospital,Meru,2022-09-02,2026-02-03,210,26.2,operating hours,40.3,3.68,42.2,Medium,231,Unit temporarily decommissioned pending inspection.
+EQ-0231,Patient Monitor,Nakuru Level 5 Hospital,Nakuru,2019-08-15,2025-11-17,288,64.0,operating hours,29.7,1.17,64.9,High,124,"Spare parts requested from supplier, pending delivery."
+EQ-0232,Patient Monitor,Moi Teaching & Referral Hospital,Uasin Gishu,2021-09-14,2025-10-04,332,58.5,operating hours,41.8,3.28,64.7,High,114,"Minor repair completed, unit returned to service."
+EQ-0233,Patient Monitor,Mbagathi Hospital,Nairobi,2022-03-25,2026-07-25,38,29.3,operating hours,33.2,3.46,26.5,Medium,290,"Minor repair completed, unit returned to service."
+EQ-0234,Patient Monitor,Kakamega County General Hospital,Kakamega,2021-09-25,2026-03-29,156,84.2,operating hours,38.7,2.43,59.2,High,178,Technician flagged unusual vibration during last inspection.
+EQ-0235,Autoclave/Sterilizer,Nakuru Level 5 Hospital,Nakuru,2022-06-13,2025-07-30,398,72.3,sterilization cycles,35.4,2.15,67.5,High,123,Recurring error code logged by onboard diagnostics.
+EQ-0236,Infusion Pump,Kiambu Level 5 Hospital,Kiambu,2023-03-24,2026-07-12,51,72.4,operating hours,40.1,0.23,38.6,Medium,247,No maintenance record on file for over 6 months.
+EQ-0237,Patient Monitor,Kiambu Level 5 Hospital,Kiambu,2022-08-23,2025-08-17,380,92.9,operating hours,40.3,3.21,77.2,Critical,99,Biomedical engineer recommends replacement within 90 days.
+EQ-0238,Ultrasound Machine,Moi Teaching & Referral Hospital,Uasin Gishu,2020-03-14,2026-03-16,169,60.4,operating hours,38.7,4.43,56.0,High,131,"Minor repair completed, unit returned to service."
+EQ-0239,X-Ray Machine,Moi Teaching & Referral Hospital,Uasin Gishu,2023-07-03,2026-03-04,181,5.6,exposures,39.6,3.66,30.0,Medium,243,"Minor repair completed, unit returned to service."
+EQ-0240,Dialysis Machine,Meru Level 5 Hospital,Meru,2018-11-01,2025-09-23,343,79.9,treatment cycles,38.4,2.55,75.6,Critical,67,Calibration passed within tolerance.
+EQ-0241,Ventilator,Jaramogi Oginga Odinga Teaching & Referral Hospital,Kisumu,2020-06-14,2025-10-19,317,20.8,operating hours,37.9,0.23,46.3,Medium,232,Unit temporarily decommissioned pending inspection.
+EQ-0242,Dialysis Machine,Mbagathi Hospital,Nairobi,2018-02-18,2026-08-23,9,0.6,treatment cycles,34.8,2.28,14.8,Low,379,"Routine preventive maintenance completed, no faults found."
+EQ-0243,Defibrillator,Machakos Level 5 Hospital,Machakos,2019-03-15,2026-04-30,124,71.5,discharge cycles,35.6,3.15,55.1,High,185,Recurring error code logged by onboard diagnostics.
+EQ-0244,Ultrasound Machine,Coast General Teaching & Referral Hospital,Mombasa,2022-07-22,2026-01-08,236,73.6,operating hours,26.8,0.69,59.2,High,120,Technician flagged unusual vibration during last inspection.
+EQ-0245,Dialysis Machine,Coast General Teaching & Referral Hospital,Mombasa,2022-04-03,2025-10-09,327,24.6,treatment cycles,41.2,3.42,50.7,High,172,"Spare parts requested from supplier, pending delivery."
+EQ-0246,X-Ray Machine,Bungoma County Referral Hospital,Bungoma,2023-12-04,2026-08-10,22,45.9,exposures,39.1,5.7,33.0,Medium,260,Biomedical engineer recommends replacement within 90 days.
+EQ-0247,Autoclave/Sterilizer,Moi Teaching & Referral Hospital,Uasin Gishu,2018-11-01,2025-11-26,279,36.9,sterilization cycles,35.0,2.14,55.6,High,193,No maintenance record on file for over 6 months.
+EQ-0248,Dialysis Machine,Nakuru Level 5 Hospital,Nakuru,2022-06-20,2026-07-23,40,42.5,treatment cycles,36.4,4.34,33.1,Medium,243,"Spare parts requested from supplier, pending delivery."
+EQ-0249,Defibrillator,Kiambu Level 5 Hospital,Kiambu,2019-07-28,2026-07-22,41,54.6,discharge cycles,32.1,0,34.6,Medium,170,"Spare parts requested from supplier, pending delivery."
+EQ-0250,Patient Monitor,Coast General Teaching & Referral Hospital,Mombasa,2024-10-14,2025-08-03,394,44.7,operating hours,33.9,1.18,52.1,High,212,No maintenance record on file for over 6 months.
