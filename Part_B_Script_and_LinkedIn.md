@@ -99,6 +99,6 @@ Built primarily through AI-assisted development (prompt log included in
 the repo), as part of the VitalAsset capstone — an AI-based medical
 equipment monitoring system for Kenyan county hospitals.
 
-🔗 GitHub: (https://github.com/nyankwoga)
+🔗 GitHub: (https://github.com/wanjikusharon)
 
 #HealthTech #AI #RAG #DataEngineering #DigitalHealth #Kenya #BuildInPublic #OperationsAutomation
